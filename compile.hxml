@@ -1,0 +1,8 @@
+-cp src
+-lib heaps
+-lib hldx
+-lib random
+-hl pong.hl
+-main Main
+-debug
+-D windowSize=1280x720
