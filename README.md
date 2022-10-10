@@ -1,6 +1,6 @@
 ## Pong!
 
-![pong](https://user-images.githubusercontent.com/50321432/194854668-bba7a9c1-aa0d-4aa5-b9cc-f56208672848.png)
+![2](https://user-images.githubusercontent.com/50321432/194854879-57458d60-9a6e-4a73-9bcc-ea3329f0217f.png)
 
 ###### Controls:
 
