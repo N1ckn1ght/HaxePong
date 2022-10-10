@@ -24,7 +24,11 @@ NumPad0 - Increase length of both rackets by 50 pixels.
 
 ###### Known issues:
 
+First collision with the ball may cause a lag spike because of first sound playback.
+
 Collision calculations with ball are made like it is a square, not an actual ball.
+
+No side collision.
 
 ###### Known features (completely not bugs):
 
@@ -32,7 +36,7 @@ As in original classic Atari Pong, there are such "windows" at the corners of th
 
 There's a limit on which angle ball can move on - it never will move from upper side to the lower side of the screen without (or with really low) moment on X axis.
 
-Yep, rackets are not rectangles. There're no collision detection on the sides of the rackets as well.
+Yep, rackets are not rectangles (kinda because of collision issue).
 
 ###### Want more?
 
@@ -41,3 +45,9 @@ Check out the "Const.hx" file to play with numbers as well.
 ###### Gameplay footage:
 
 https://youtu.be/aHqnN17qG-w 
+
+###### Executable:
+
+Keep in mind, this is not official release. It will spam some debug information =)
+
+https://disk.yandex.ru/d/Yx8Prj0OshaZBQ
