@@ -48,6 +48,6 @@ https://youtu.be/aHqnN17qG-w
 
 ###### Executable:
 
-Keep in mind, this is not official release. It will spam some debug information =)
+See releases, there's a v1.0.0-debug version for now. 
 
-https://disk.yandex.ru/d/Yx8Prj0OshaZBQ
+It's enjoyable, so have fun!
